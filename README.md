@@ -14,10 +14,15 @@
 #Steps I follow:-
 
 1- Take backup.
+
 2- Make sure you don't have any customization those are not committed.
+
 3- Check python version
+
 4- Check node version.
+
 5- Check pip or pip3 version ( needs to be upgrade to 22.x )
+
 6- Upgrade python
 ```
 sudo apt install software-properties-common -y
