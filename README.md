@@ -129,3 +129,27 @@ After completing all the steps I get the following result.
 
  ## :arrow_right: *DATE (15/11/2022)*
 ### *Complete the maximum work of Quotation and Estimate in CMC Project*
+
+1. Customize the quotation doctype. In the quotation doctype we add
+the CMC Request No., Labour Cost , Grand Total(Equals to total_cost+
+labour cost).
+
+2. Add connection in CMC Doctype. When the sde clicks on Quotation
+then in the Quotation form CMC Request no. automatically fetches.
+
+3. Next problem we faced is CMC_Head unable to see the quotation. For
+this we see all the roles and roles permissions  but we are unable to
+find anything from that. After that we find that there is some user
+permission for a user CMC Head which restricts the CMC Head to see the
+quotation list.
+
+4. We also add the custom script in Quotation doctype.( Grand Total =
+total_cost+ labour cost).
+
+  After that we discussed with Rai Sir in the evening meeting that there
+  is no need to customize the quotation doctype. Instead of this I add some
+  services in the item list and delete the customization that I made on
+  quotation doctype.
+
+  Pending work:-
+  When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
