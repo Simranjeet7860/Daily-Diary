@@ -126,3 +126,6 @@ After completing all the steps I get the following result.
 <img alt="logotype" src="https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-11-14%2014-39-51.png">
 </div>
 <br>
+
+ ## :arrow_right: *DATE (15/11/2022)*
+### *Complete the maximum work of Quotation and Estimate in CMC Project*
