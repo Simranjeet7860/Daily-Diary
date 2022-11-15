@@ -104,11 +104,20 @@ bench --site {site_name} migrate
 This command works only when the bench is start.
 ```
 After completing all the steps I am facing the following problem:-
-https://github.com/Simranjeet7860/Demo-Image/blob/main/pp.png
+After completing all the steps I am facing the following problem:-
+<br>
+<div align="left">
+<img alt="logotype" src="https://discuss.erpnext.com/uploads/default/original/3X/c/d/cd47331f398a9ad7d817584f6fd7389670705ce0.png">
+</div>
+<br>
 
 This error is resolved by removing the line
 "maintenance mode":1
 from common_site_config.json
 
 After completing all the steps I get the following result.
-https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-11-14%2014-39-51.png  
+<br>
+<div align="left">
+<img alt="logotype" src="https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-11-14%2014-39-51.png">
+</div>
+<br>
