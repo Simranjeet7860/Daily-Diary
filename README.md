@@ -163,3 +163,30 @@ then it shows an alert message.
 If this task is finished on time then after that I have another task
 to understand the whole chat app like how its work, doctypes created
 and the logic behind all the stuff.
+
+### Status of Tasks:-
+Only first task is completed and the second task is pending.
+
+### Work I do Today for completing the first task.
+In the CMC Project we want the linking of Quotation,Sales Order and Sales Invoice with the CMC Request.
+
+Solution:- We added one field(CMC Request no.) in the all the doctypes(Sales invoice, Sales Order and
+quotation) and fetched the CMC Request No. automatically.
+For this we use the connections.
+
+When total_cost(in Quotation)>total_cost(in Bill) then it shows an
+alert message.
+
+Solution:-For this we fetch the total cost of quotation in the Sales
+
+Invoice doctype and add the following client script in it.
+```
+frappe.ui.form.on('Sales Invoice', {
+    refresh(frm) {
+        if (frm.doc.grand_total > frm.doc.quotation_total) {
+        frappe.msgprint('Your Total Cost exceeding the Estimate Cost!!!')
+}
+    }
+})
+```
+
