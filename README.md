@@ -153,3 +153,13 @@ total_cost+ labour cost).
 
   Pending work:-
   When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
+  
+   ## :arrow_right: *DATE (16/11/2022)*
+### *Today Task*
+Finish 10% of yesterday's pending work which is
+When total_cost(in Quotation)>total_cost(in Bill)
+then it shows an alert message.
+
+If this task is finished on time then after that I have another task
+to understand the whole chat app like how its work, doctypes created
+and the logic behind all the stuff.
