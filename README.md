@@ -352,7 +352,7 @@ bench --site {site_name} install-app {app_name}
 
 - As all are not reading the mails properly so Sir assign Komal to give a brief representation on the mails guidelines.
 - All are prepared themselves for the presentation because Sir told us that they can ask any question to anyone regarding the mails and guidelines.
-- In the evening Komalreet gave their presentation.   
+- In the evening Komalpreet gave their presentation.   
 
 ### :arrow_right: *DAY 23 (05/08/2022)*
 
