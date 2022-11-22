@@ -36,17 +36,26 @@ The PHP open-source scripting language works with Apache to create dynamic web p
 ## :arrow_right: *DAY 3 (14/07/2022)*
 
 
-- Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. 
-- This activity took about 2 days.then we found another souces fro teh installation of the framework because theh version of the linux was not compactable with the official instructions. 
-- The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS) for the proper installation of the later.
+- Today I learn a lot of stuff related to linux, different operating systems.
+- I go through the documentation which is provided at https://www.guru99.com/install-linux.html and learn about the linux distrubutions.
+- I also learn theoretically how to install linux in our laptop or pc but there is a lot of difference to learn theoratically and perform practically.
+- I got so many error while installing the linux even my window is destroyed due to some lack of information.
+- Now I have no operating system in my pc.
+- After a lot of struggle when I am unable to find the the solution of this then I decide to this tommorow in the presence of some expert who is having some knowledge of linux and the stuff related to distributions.
 
+##  :arrow_right: *DAY 4(15/07/2022)*
 
-##  :arrow_right: *DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
+- In the morning Pranvir help me to resolve the errors which I got during the installation of linux.
+- Now I have Ubuntu linux distribution in my pc.
+- This took my whole day and I learn a lot of things like how to install linux in our laptop practically.
 
-- As the frappe was installed, the futher reading process about the usage of the framework was done. 
-- The LIBERARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. 
-- This took us 2 days.
+##  :arrow_right: *DAY 5 (16/07/2022)*
 
+## Saturday
+
+##  :arrow_right: *DAY 6(17/07/2022)*
+
+## Sunday
 
 ##  :arrow_right: *DAY 7 (18/07/2022)*
 
