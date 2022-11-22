@@ -290,28 +290,27 @@ Web View Pages
 ## :arrow_right: *DAY 16 (27/07/2022)*
 
 
-- Understand the full structure of (erp.gndec.ac.in)
-- Solve the error of team-mates regarding mysql
-- Install ubuntu on team-mate system
-
+- Today after the presentation Rai Sir give me a task to understand the chat-app which is created in the frappe-framework v13. 
+- As I searched a lot but I am unable to find the solution how we can download the prebuild apps in our laptop.
+- At this stage Tanveer help me and give me a hint that we can install prebuild apps by the following commands:-
+```
+bench get-app {app_name}
+bench --site {site_name} install-app {app_name}
+```
 
 ## :arrow_right: *DAY 17 (28/07/2022)*
 
+- Today my work is to understand the chat-app ,which doctypes are created and all the stuff related to this.
+- First I install the chat-app in our laptop and see all the files which is created in the chat-app.
+- During the exploratoin I learned a new thing which is user and roles in the frappe framework.
+- From the above I learned how we can give different roles and different roles permissions to different users.
 
-- Install Conda and create virtual environment
-- INstall Python  -V 3.8.1
-- Install bench   -V 5.8.1
-- Install Frappe  -V 13.23.0
-- Install Erpnext -V 13
+## :arrow_right: *DAY 18 (29/07/2022)*
 
-
-## :arrow_right: *DAY 16 (28/07/2022)*
-
-
+- Today our whole team task is to understand the LMS(Learning Management System) in the Frappe framework.
 - Reading Education Domain with fully understanding
 
 ### Setup :
-
 
 - Program
 - Course
@@ -323,8 +322,7 @@ Web View Pages
 - Acadmic year
 - Education Settings
 
-
-## :arrow_right: *DAY 17 (29/07/2022)*
+## :arrow_right: *DAY 19 (30/07/2022)*
 
 
 - Implement education domain in test server (gne11.gndec.ac.in)
