@@ -324,56 +324,35 @@ bench --site {site_name} install-app {app_name}
 
 ## :arrow_right: *DAY 19 (30/07/2022)*
 
+- Today seminar off because our Infosys SP & DSE Exam
+- Prepare for Exam
+
+## :arrow_right: *DAY 20 (31/07/2022)*
+
+## Sunday
+
+### :arrow_right: *DAY 21 (01/08/2022)*
+
+- Today Satinder Sir gave us a work to get a backup from an server which is at CC1 lab.
+- We(me and Tanveer) are selected to do this task.
+- First we open the CPU and get the Hard Drive from that CPU after that we connected that Hard Drive to another pc and take the backup files which is useful.
+
+### :arrow_right: *DAY 22 (02/08/2022)*
+
+- There is one another file in the hard disk which is a script which is user to create the users automatically.
+- We take the backup of the file and send the script to the Rai Sir.
+
+### :arrow_right: *DAY 23 (03/08/2022)*
 
 - Implement education domain in test server (gne11.gndec.ac.in)
 - Create Programs, Courses
 - Allot room according to course, Programs and So on.
 
+### :arrow_right: *DAY 24 (04/08/2022)*
 
-## :arrow_right: *DAY 18 (30/07/2022)*
-
-
-- Today seminar off because our Infosys SP & DSE Exam
-- Prepare for Exam
-
-### :arrow_right: *DAY 19 (01/08/2022)*
-
-
-Design database for mentor-mentee using keys.
-
-- Create Student Table        [seprate]
-- Create Mentor Table         [seprate]
-- Create Mentor_Mentee Table  [seprate]
-- Front-end is done
-- It shows primary key values
-- According to our need we can get Names as well..
-
-
-### :arrow_right: *DAY 20 (02/08/2022)*
-
-
-- Focus on Mentor-Mentee 
-- Read and undersytand library mamagement system with full concentaration
-- Understand Jinja2 Template and its tools, syntax
-- make project more efficient using templates and jinja2 tool
-
-
-### :arrow_right: *DAY 21 (03/08/2022)*
-
-
-- Fetch the student name and mentor name through primary keys
-- fetch the name through keys its tutoril is not given i can try itself.
-- Give presentation on Mentor-Mentee
-- New Task ----> webpage [ create one webpage and fetch the values another table ]
-
-
-### :arrow_right: *DAY 22 (04/08/2022)*
-
-
-- Create a demo web page
-- It is created witnin 3 minutes.
-- Now i am exploring the webpage documentation and its features
-
+- As all are not reading the mails properly so Sir assign Komal to give a brief representation on the mails guidelines.
+- All are prepared themselves for the presentation because Sir told us that they can ask any question to anyone regarding the mails and guidelines.
+- In the evening Komalreet gave their presentation.   
 
 ### :arrow_right: *DAY 23 (05/08/2022)*
 
