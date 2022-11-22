@@ -239,26 +239,55 @@ We will build a simple Library Management System in which the Librarian can log 
    
    Library Settings: Settings that define values like Loan Period and the maximum number of articles that can be issued at a time.
 
+##  :arrow_right: *DAY 12 (23/07/2022)*
 
-## :arrow_right: *DAY 12 (23/07/2022)*
+## Saturday
+
+##  :arrow_right: *DAY 13(24/07/2022)*
+
+## Sunday
+
+## :arrow_right: *DAY 14 (25/07/2022)*
+
+- Today I learn how we can create our site and app in frappe folder:-
+- Commands which use to create app is
+```
+bench new-app {app_name}
+```
+- For creating new site
+```
+bench new-site {site_name}
+```
+- Today I complete the following steps of Library Management System:-
+
+Frappe Framework Tutorial
+
+Install and Setup Bench
+
+Create an App
+
+Create a Site
+
+Create a DocType
+
+DocType Features
+
+## :arrow_right: *DAY 15 (26/07/2022)*
+
+- Today I completed the pending steps of library management system
+
+Controller Methods
+
+Types of DocType
+
+Form Scripts
+
+Web View Pages
+
+- Today I complete the library management system and decide to give the presentation on it.
 
 
-- Working on intrusion detetction system using artificial neural networks so we can use live data.
-- Read all the research paper of IDS
-- Read about Snort and Suricata
-- Implement Snort on local machines
-
-
-## :arrow_right: *DAY 13 (25/07/2022)*
-
-
-- Working Mentor Mentee system on Frappe according to requiremnts like septate student or mentor table
-- Got the task of making Financial system in erp.gndec.ac.in
-- Took two more members suggested by sir (Raghav,Simran)
-- Started work on this from this day.
-
-
-## :arrow_right: *DAY 14 (26/07/2022)*
+## :arrow_right: *DAY 16 (27/07/2022)*
 
 
 - Understand the full structure of (erp.gndec.ac.in)
@@ -266,7 +295,7 @@ We will build a simple Library Management System in which the Librarian can log 
 - Install ubuntu on team-mate system
 
 
-## :arrow_right: *DAY 15 (27/07/2022)*
+## :arrow_right: *DAY 17 (28/07/2022)*
 
 
 - Install Conda and create virtual environment
