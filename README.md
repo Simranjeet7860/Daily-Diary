@@ -218,16 +218,26 @@ Now press (Ctrl-X) to exit
 
 ##  :arrow_right: *DAY 10 (21/07/2022)*
 
-
-- Today i am completed the frappe Library Management and view the articles and articles list on web pages.
-- Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
-
+- I get a lot of errors in the installation of frappe framework in my pc which is mentioned in the mails.
+- A lot of errors is solved by searching a lot of errors are resolved by ourself also.
+- Today I successfullly install the frappe framework in our laptop.
 
 ## :arrow_right: *DAY 11 (22/07/2022)*
 
+- Today our task is to create library management system in our laptop by learning through the frappe documentation https://frappeframework.com/
+- In the library Management System we have to do the following things:-
 
-- Full review on library management system
-- Working on mentor-mentee project
+We will build a simple Library Management System in which the Librarian can log in and manage Articles and Memberships. We will build the following models:
+
+   Article: A Book or similar item that can be rented.
+   
+   Library Member: A user who is subscribed to a membership.
+   
+   Library Transaction: An Issue or Return of an article.
+   
+   Library Membership: A document that represents an active membership of a Library Member.
+   
+   Library Settings: Settings that define values like Loan Period and the maximum number of articles that can be issued at a time.
 
 
 ## :arrow_right: *DAY 12 (23/07/2022)*
