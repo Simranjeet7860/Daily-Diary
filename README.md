@@ -354,73 +354,53 @@ bench --site {site_name} install-app {app_name}
 - All are prepared themselves for the presentation because Sir told us that they can ask any question to anyone regarding the mails and guidelines.
 - In the evening Komalpreet gave their presentation.   
 
-### :arrow_right: *DAY 23 (05/08/2022)*
+### :arrow_right: *DAY 25 (05/08/2022)*
 
-- Working on webpage
-- understand context script
-- use frontend tool of webpage
+- Today I will try explore my chat-app work.
+- In this I am exploring the doctypes created by the chat app.
+- How chat-app works for non user or website user.
 
-
-### :arrow_right: *DAY 24 (06/08/2022)*
-
+### :arrow_right: *DAY 26 (06/08/2022)*
 
 - Saturday seminar
 - understand the use of make command
 - how we can write script of it
 
+### :arrow_right: *DAY 27 (7/08/2022)*
 
-### :arrow_right: *DAY 25 (17/08/2022)*
+## Sunday
 
-
-Sunday - Fun Day
-
-
-
-### :arrow_right: *DAY 26 (08/08/2022)*
+### :arrow_right: *DAY 28 (08/08/2022)*
 
 
 - getting error when i'm using context script
 - search the solution for it.
 - work on fee structure on education domain.
 
+### :arrow_right: *DAY 29 (09/08/2022)*
 
-### :arrow_right: *DAY 27 (09/08/2022)*
+- Today I explore how we can edit homepage and login page.
+- I am also work on how we can give appropriate roles to different users.
+- In the evening there is a presentation given by tanveer on LMS.
 
-- Search the helpfull tutorial for the context script so we can understand it.
+### :arrow_right: *DAY 30 (10/08/2022)*
 
-### :arrow_right: *DAY 28 (10/08/2022)*
+- Today I explore How can we me make users in bulk.
+- It is a very simple process to do so.
+- First go to the user list click on import data.
+- Click on get csv and select the fields according to your needs.
+- After that create put all the data in csv file and upload it.
 
-#### Given by Satndrpal Sir
+### :arrow_right: *DAY 31 (11/08/2022)*
 
+## Raksha Bandhan
 
-1.  Student Admission
-2.  Student Fees
-3.  Generate Fee Slip
-4.  Online Fee Option & Receipt
-5.  Accounting
-6.  HR Modules
-7.  Sales Management
-8.  Assets Management
-9.  Student Leaving Certificate Option
-10. Lead Management
-11. Student Applicant
-
-
-### :arrow_right: *DAY 29 (11/08/2022)*
-
-
-- Raksha Bandhan
-- Only Work on Admission Part
-
-
-### :arrow_right: *DAY 30 (12/08/2022)*
-
+### :arrow_right: *DAY 32 (12/08/2022)*
 
 - Work on Student Fees
 - Generate Fee Slip
 
-
-### :arrow_right: *DAY 31 (13/08/2022)*
+### :arrow_right: *DAY 33 (13/08/2022)*
 
 
 - Give Presentation on fee & admission part, report made by simran
@@ -429,13 +409,13 @@ Sunday - Fun Day
 - Understand what is fet & how we can design the timetabe for any school and institution.
 
 
-### :arrow_right: *DAY 32 (14/08/2022)*
+### :arrow_right: *DAY 34 (14/08/2022)*
 
 
 Sunday day - Fun day 
 
 
-### :arrow_right: *DAY 33 (15/08/2022)*
+### :arrow_right: *DAY 35 (15/08/2022)*
 
 
 - Happy Independence Day [ 75th ]
@@ -443,7 +423,7 @@ Sunday day - Fun day
 - Work on Fee option and receipt
 
 
-### :arrow_right: *DAY 34 (16/08/2022)*
+### :arrow_right: *DAY 36 (16/08/2022)*
 
 
 - Work on Accounting
