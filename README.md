@@ -413,33 +413,26 @@ bench --site {site_name} install-app {app_name}
 
 ### :arrow_right: *DAY 35 (15/08/2022)*
 
-
-- Happy Independence Day [ 75th ]
-- Work From Home
-- Work on Fee option and receipt
-
+## Independence Day
 
 ### :arrow_right: *DAY 36 (16/08/2022)*
-
 
 - Work on Accounting
 - Leaving Certificate
 - Lead Management
 
 
-### :arrow_right: *DAY 35 (17/08/2022)*
-
+### :arrow_right: *DAY 37 (17/08/2022)*
 
 - HR Module
 - Student Applicant
 - Sales Management 
 - Assets Management
-- oday I helped the rest of the team.
+- Today I helped the rest of the team.
 
 Like - SSO Implementation, LDAP installation and Configuration.
 
-
-### :arrow_right: *DAY 36 (18/08/2022)*
+### :arrow_right: *DAY 38 (18/08/2022)*
 
 - Explore HR Module
 - Show the fetched values of the mentor-mentee on the webpage with the use of context script
@@ -447,13 +440,13 @@ Like - SSO Implementation, LDAP installation and Configuration.
 - Add the Load More button on the right side of the page on the frappe
 - Add search button on the webpage of the mentor mentee
 
-### :arrow_right: *DAY 37 (19/08/2022)*
+### :arrow_right: *DAY 39 (19/08/2022)*
 
 - Create and design the table of the user of the webpage on https://gne11.gndec.ac.in/user 
 - Discuss the workflow of CMC 
 - start work on CMC and also work to design the flow chart of the CMC so we can easily understand its depth
 
-### :arrow_right: *DAY 38 (20/08/2022)*
+### :arrow_right: *DAY 40 (20/08/2022)*
 
 #### Saturday Seminar
 
@@ -462,21 +455,20 @@ Like - SSO Implementation, LDAP installation and Configuration.
 - Discuss some topics of NSPS Project.
 
 
-### :arrow_right: *DAY 39 (21/08/2022)*
+### :arrow_right: *DAY 41 (21/08/2022)*
 
 Sunday FUN - day
 
-- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/~deepak526/
+- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/
 
 
-### :arrow_right: *DAY 40 (22/08/2022)*
+### :arrow_right: *DAY 42 (22/08/2022)*
 
-- Morning Classes
 - find the admission fee in erp.gndec.ac.in
 - And did some other works related to projects.
 - Mentor - Mentee project is finished
 
-### :arrow_right: *DAY 41 (23/08/2022)*
+### :arrow_right: *DAY 43 (23/08/2022)*
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
