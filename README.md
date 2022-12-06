@@ -7,7 +7,6 @@ All about the 6 month training and internship
 ### *Learning new Things*
 
 
-- Today is the first day in the internship. I was not selected in the interview round so I requested to SatinderPal Sir please give me chance. After that he gave me a chance and join me in their team.
 - In the morning we have meeting with HS Rai Sir(mentor of our training).
 - He gave us the instructions and welcome us in the SDC(Software developement Centre)
 - He told us to work on the things:
@@ -208,7 +207,7 @@ Now press (Ctrl-X) to exit
 ### STEP 15 install ERPNext latest version in bench & site
 
     bench get-app erpnext --branch version-13
-    ###OR
+    ### OR
     bench get-app https://github.com/frappe/erpnext --branch version-13
 
     bench --site dcode.com install-app erpnext
@@ -403,16 +402,13 @@ bench --site {site_name} install-app {app_name}
 ### :arrow_right: *DAY 33 (13/08/2022)*
 
 
-- Give Presentation on fee & admission part, report made by simran
-- Under the concept of virtual environment by Tavleen Kaur [ 2nd year CSE ]
-- Give work to tavleen kaur on The Unix Shell [ Linux Commands ]
-- Understand what is fet & how we can design the timetabe for any school and institution.
-
+- Deepak gave a presentation on fees and admission and I make a report of it.
+- Presentation on virtual environment given by Tavleen Kaur [ 2nd year CSE ]
+- Understand what is fet.
 
 ### :arrow_right: *DAY 34 (14/08/2022)*
 
-
-Sunday day - Fun day 
+## Sunday day 
 
 
 ### :arrow_right: *DAY 35 (15/08/2022)*
