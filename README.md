@@ -459,27 +459,19 @@ Like - SSO Implementation, LDAP installation and Configuration.
 
 Sunday FUN - day
 
-- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/
-
-
 ### :arrow_right: *DAY 42 (22/08/2022)*
 
 - find the admission fee in erp.gndec.ac.in
 - And did some other works related to projects.
-- Mentor - Mentee project is finished
+- Lived the webpage from the public_html [ Home Directory ] https://gne2.gndec.ac.in/
 
 ### :arrow_right: *DAY 43 (23/08/2022)*
 
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
 
-### :arrow_right: *DAY 1 (18/10/2022)*
+### :arrow_right: *DAY 44 (24/10/2022)*
 
-#### Today Targets :
-
-1. Comlplete the employee data CSV file.
-2. Study about data fields in v13 and v14.
-3. Also focus on cmc project and so on.
 
 
  ## :arrow_right: *DATE (14/11/2022)*
