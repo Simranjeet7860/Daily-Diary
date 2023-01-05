@@ -470,6 +470,101 @@ Sunday FUN - day
 - Argusoft pre-placement talks starts at 8:30 AM
 - Then exam at 12'o clock.
 
+### :arrow_right: *DAY 44 (24/08/2022)*
+
+- I have created all the courses again and also putt the subjects in each category.This task took complete one day.
+
+### :arrow_right: *DAY 45 (25/08/2022)*
+
+- Today Satinder sir given a task to me and jasjit to find the information from database regarding to the NSPS grade report. A grade report is contains the fields of `Name of course` , `Email address` , `Course grade` etc.
+
+### :arrow_right: *DAY 46 (26/08/2022)*
+
+- Today we learnt first about the sql queries and watched one tutorial for it and explore about the general log file and error log file along what is the importance over all of these files. After wacthed the tutorial got some idea and executed some queries.
+
+### :arrow_right: *DAY 47 (27/08/2022)*
+
+- Finally we took our first step towards the task. To complete the task (grade report),firstly i install local moodle on my system and it take some time.Then i started working on it and explore the feature of it ,because it was my first time to do something on moodle.
+
+### :arrow_right: *DAY 48 (23/08/2022)*
+
+## SUNDAY
+
+### :arrow_right: *DAY 49 (29/08/2022)*
+
+- In order to accomplished our task ,we need user(student) name,grade,id,couse name.So start exploring the moodle database to get the valuses from the moodle database tables.
+
+mdl_grade_grades: In this table we get the id,rawgrademax,finalgrade.
+mdl_user: In this table we get the firstname of user,last name of user,username.
+mdl_course: In this we get id of course,fullname,shortname.
+
+### :arrow_right: *DAY 50 (30/08/2022)*
+
+- Today we had a discussion with our mentor releted the values and we set the final table ,to make single final query. The final table that we have to make contain the feild of uasername,firstname,lastname,course name,id.
+- 
+### :arrow_right: *DAY 51 (31/08/2022)*
+
+- We succesfilly make the query with the help of Satinder sir, and at last sir tell us to check the final output, is it was actually meet with our requirement. At that time it was correct but when we test it by adding more courses then it was not giving the update couse and update grade of user.
+
+### :arrow_right: *DAY 52 (01/09/2022)*
+
+- Today i had a task to resolve the problem. For that i took help from my other training friends. We all start working on it and also finding the solution with diffrent diffrent approaches.
+
+### :arrow_right: *DAY 53 (02/09/2022)*
+
+
+- Today i went to satinder sir to discuss the problem. Sir gave some idea about it we again start to working on it and applied several queries but didn't work anything till evening.
+
+### :arrow_right: *DAY 54 (02/09/2022)*
+
+
+- On this day i try below query-
+
+`SELECT u.firstname , u.lastname , u.email , u.username, c.fullname as course_name,  
+ROUND(gg.finalgrade,2) Grade, concat(uo.url, c.id) as url FROM mdl_course AS
+c JOIN  url_of_course AS uo JOIN mdl_context AS ctx ON c.id = ctx.instanceid 
+JOIN mdl_role_assignments AS ra ON ra.contextid = ctx.id JOIN mdl_user 
+AS u ON u.id = ra.userid JOIN mdl_grade_grades AS gg ON gg.userid = u.id JOIN 
+mdl_grade_items AS gi ON gi.id = gg.itemid JOIN mdl_course_categories 
+AS cc ON cc.id = c.category WHERE gi.courseid = c.id AND gi.itemtype = 'course';`
+
+It executed successfully getting the final output which mathes with requirements.
+
+
+### :arrow_right: *DAY 55 (03/09/2022)*
+
+
+- After this having a task to put the incremental backup so that automatically values will be fetched from the database and update on moodle (gradebook) respectively.
+
+
+### :arrow_right: *DAY 56 (04/09/2022)*
+
+## SUNDAY
+
+### :arrow_right: *DAY 57 (05/09/2022)*
+
+
+- Today i have a task to learnt about the incemental backup. For that i refers some tutorial from youtube and followed them. I learnt of its importance and significance.
+
+### :arrow_right: *DAY 58 (06/09/2022)*
+
+- Today @HS Rai sir give one task to me that we have to do some work on QT(Qt is cross-platform software for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows). The first we have to learn about the QT how to use it and how it work. For this i install it in my system and start exploring about it.
+
+
+### :arrow_right: *DAY 59 (07/09/2022)*
+
+- Then we install QT creator in which we write our program to create the GUI.Qt Creator creates several files for you. The HelloWorld.qmlproject file is the project file, where the relevant project configuration is stored. This file is managed by Qt Creator, so don’t edit it yourself. Another file, HelloWorld.qml, is our application code. Open it and try to understand what the application does before you read on.
+
+
+### :arrow_right: *DAY 60 (08/09/2022)*
+
+- In this period we learn about the QT and run a simple program (Hello) on it.
+- Beside this i am also workinfg on to get the user data from database.The question was that how to fetch the data from two table in mysql database.Because we have to fetch the user name and corresponding courses which are stored in two different tables.
+
+### :arrow_right: *DAY 61 (09/09/2022)*
+
+- Today We start a ndew Project named CMC( Construction & Maintenance Cell).First of all we need to understand the structure of CMC, The CMC will be a company under NSET, parallel to GNDEC. IMO it must be a service based company, what is your opinion, and other domains available.It will have sales, purchase, stock, accounting etc.So, It is a service based company.
+
 
 ## :arrow_right: *DATE (14/11/2022)*
 ### *Finds the appropriate solution for upgrading Frappe v13 to Frappe v14*
