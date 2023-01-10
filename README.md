@@ -478,11 +478,16 @@ bench --site {site_name} install-app {app_name}
 
 :arrow_right: **Date : 30-AUGUST-2022** 
 
-- Today we had a discussion with our mentor releted the values and we set the final table ,to make single final query. The final table that we have to make contain the feild of uasername,firstname,lastname,course name,id.
+- Payroll is the administration of financial records of employees' salaries, wages, bonuses, net pay, and deductions.
+- Today I explore selery component and payroll period
+
 
 :arrow_right: **Date : 31-AUGUST-2022** 
 
-- We succesfilly make the query with the help of Satinder sir, and at last sir tell us to check the final output, is it was actually meet with our requirement. At that time it was correct but when we test it by adding more courses then it was not giving the update couse and update grade of user.
+- we had a discussion with our mentor releted the values and we set the final table ,to make single final query. 
+- The final table that we have to make contain the feild of uasername,firstname,lastname,course name,id.
+- We succesfilly make the query with the help of Satinder sir, and at last sir tell us to check the final output, is it was actually meet with our requirement. 
+- At that time it was correct but when we test it by adding more courses then it was not giving the update couse and update grade of user.
 
 :arrow_right: **Date : 01-SEPTEMBER-2022** 
 
