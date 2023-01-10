@@ -471,31 +471,43 @@ bench --site {site_name} install-app {app_name}
 
 :arrow_right: **Date : 29-AUGUST-2022** 
 
-- Today in the evening meeting Satinder Sir gave me a task to explore
-  Payroll in Frappe. I am working on it.
-- I am going through the documentation
-  https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/payroll-setup
+- In order to accomplished our task ,we need user(student) name,grade,id,couse name.So start exploring the moodle database to get the valuses from the       moodle database tables.
+- mdl_grade_grades: In this table we get the id,rawgrademax,finalgrade. mdl_user: In this table we get the firstname of user,last name of user,username. 
+- mdl_course: In this we get id of course,fullname,shortname.
 
 :arrow_right: **Date : 30-AUGUST-2022** 
 
-- Payroll is the administration of financial records of employees' salaries, wages, bonuses, net pay, and deductions.
-- Today I explore selery component and payroll period
-
+- we had a discussion with our mentor releted the values and we set the final table ,to make single final query. 
+- The final table that we have to make contain the feild of uasername,firstname,lastname,course name,id.
 
 :arrow_right: **Date : 31-AUGUST-2022** 
 
-- we had a discussion with our mentor releted the values and we set the final table ,to make single final query. 
-- The final table that we have to make contain the feild of uasername,firstname,lastname,course name,id.
 - We succesfilly make the query with the help of Satinder sir, and at last sir tell us to check the final output, is it was actually meet with our requirement. 
 - At that time it was correct but when we test it by adding more courses then it was not giving the update couse and update grade of user.
 
 :arrow_right: **Date : 01-SEPTEMBER-2022** 
 
-- Today i had a task to resolve the problem. For that i took help from my other training friends. We all start working on it and also finding the solution with diffrent diffrent approaches.
+- Today I started on my old work which is exploring chat app.
+- Chat is the commmuncation software where people interact with others through the text messages. 
+- The Chat is a tool, which allows you to send and receive messages to other Users within your ERPNext account.
+- This tool can be used to maintain internal communications within your oganization. 
 
 :arrow_right: **Date : 02-SEPTEMBER-2022** 
 
-- Today i went to satinder sir to discuss the problem. Sir gave some idea about it we again start to working on it and applied several queries but didn't work anything till evening.
+- Today I explore about the features of chat app which are described below.
+1. Lightweighted .
+2. Drak mode support.
+3. Provide admin , guest and user view.
+4. Responsive
+5. Interface
+
+- How to installed?
+
+By following below commands -
+```
+bench get -app chat
+bench --site sitename install -app cha
+```
 
 :arrow_right: **Date : 03-SEPTEMBER-2022** 
 
