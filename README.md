@@ -87,8 +87,6 @@ A complete Guide to Install Frappe Bench in Ubuntu 22.04 LTS and install Frappe/
       cron                                          (bench's scheduled jobs: automated certificate renewal, scheduled backups)
       NGINX                                         (proxying multitenant sites in production)
 
-
-
 ### STEP 1 Install git
     sudo apt-get install git
 
@@ -255,37 +253,26 @@ bench new-app {app_name}
 ```
 bench new-site {site_name}
 ```
-- Today I complete the following steps of Library Management System:-
+### Today I complete the following steps of Library Management System:-
 
-Frappe Framework Tutorial
-
-Install and Setup Bench
-
-Create an App
-
-Create a Site
-
-Create a DocType
-
-DocType Features
+- Frappe Framework Tutorial
+- Install and Setup Bench
+- Create an App
+- Create a Site
+- Create a DocType
+- DocType Features
 
 :arrow_right: **Date : 26-JULY-2022** 
 
-- Today I completed the pending steps of library management system
+### Today I completed the pending steps of library management system
 
-Controller Methods
-
-Types of DocType
-
-Form Scripts
-
-Web View Pages
-
+- Controller Methods
+- Types of DocType
+- Form Scripts
+- Web View Pages
 - Today I complete the library management system and decide to give the presentation on it.
 
-
 :arrow_right: **Date : 27-JULY-2022** 
-
 
 - Today after the presentation Rai Sir give me a task to understand the chat-app which is created in the frappe-framework v13. 
 - As I searched a lot but I am unable to find the solution how we can download the prebuild apps in our laptop.
