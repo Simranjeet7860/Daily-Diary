@@ -1,11 +1,9 @@
 # Daily-Diary
 # TRAINING AND INTERNSHIP PROGRAMME :point_down:
 
-All about the 6 month training and internship
+:arrow_right: **Date : 12-JULY-2022** 
 
- ## :arrow_right: *DAY 1 (12/07/2022)*
-### *Learning new Things*
-
+### Learning new Things
 
 - In the morning we have meeting with HS Rai Sir(mentor of our training).
 - He gave us the instructions and welcome us in the SDC(Software developement Centre)
@@ -13,26 +11,26 @@ All about the 6 month training and internship
 -- Linux, Apache, Mysql & Mariadb , php.
 
 
-## :arrow_right: *DAY 2 (13/07/2022)*
+:arrow_right: **Date : 13-JULY-2022** 
 
 - Today I started working on learning about LAMP.
 - I go through the documentation https://www.javatpoint.com/what-is-lamp.
 
 ### What I learn Today:-
 
-Linux: Linux started in 1991. It sets the foundation for the stack model. All other layers are run on top of this layer.
-It is an open-source and free operating system. It is endured partly because it's flexible, and other operating systems are harder to configure.
+- Linux: Linux started in 1991. It sets the foundation for the stack model. All other layers are run on top of this layer.
+  It is an open-source and free operating system. It is endured partly because it's flexible, and other operating systems are harder to configure.
      
-Apache: The second layer consists of web server software, typically Apache Web Server. This layer resides on top of the Linux layer.
-Apache HTTP Server is a free web server software package made available under an open-source license. It used to be known as Apache Web Server when it     was created in 1995.
+- Apache: The second layer consists of web server software, typically Apache Web Server. This layer resides on top of the Linux layer.
+  Apache HTTP Server is a free web server software package made available under an open-source license. It used to be known as Apache Web Server when it     was created in 1995.
     
-MySQL: MySQL is a relational database management system used to store application data. It is an open-source and keeps all the data in a format that       can easily be queried with the SQL language.
+- MySQL: MySQL is a relational database management system used to store application data. It is an open-source and keeps all the data in a format that       can easily be queried with the SQL language.
     
-PHP: The scripting layer consists of PHP and other similar web programming languages.
-The PHP open-source scripting language works with Apache to create dynamic web pages. We cannot use HTML to perform dynamic processes such as pulling       data out of a database.
+- PHP: The scripting layer consists of PHP and other similar web programming languages.
+  The PHP open-source scripting language works with Apache to create dynamic web pages. We cannot use HTML to perform dynamic processes such as pulling       data out of a database.
 
 
-## :arrow_right: *DAY 3 (14/07/2022)*
+:arrow_right: **Date : 14-JULY-2022** 
 
 
 - Today I learn a lot of stuff related to linux, different operating systems.
@@ -42,39 +40,39 @@ The PHP open-source scripting language works with Apache to create dynamic web p
 - Now I have no operating system in my pc.
 - After a lot of struggle when I am unable to find the the solution of this then I decide to this tommorow in the presence of some expert who is having some knowledge of linux and the stuff related to distributions.
 
-##  :arrow_right: *DAY 4(15/07/2022)*
+:arrow_right: **Date : 15-JULY-2022** 
 
 - In the morning Pranvir help me to resolve the errors which I got during the installation of linux.
 - Now I have Ubuntu linux distribution in my pc.
 - This took my whole day and I learn a lot of things like how to install linux in our laptop practically.
 
-##  :arrow_right: *DAY 5 (16/07/2022)*
+:arrow_right: **Date : 16-JULY-2022** 
 
-## Saturday
+### Saturday
 
-##  :arrow_right: *DAY 6(17/07/2022)*
+:arrow_right: **Date : 17-JULY-2022** 
 
-## Sunday
+### Sunday
 
-##  :arrow_right: *DAY 7 (18/07/2022)*
+:arrow_right: **Date : 18-JULY-2022** 
 
 - Today Rai Sir added our whole team in the google group and told us to go through the documentation http://www.slideshare.net/sandeepkmadaan/mailing-guidelines 
 - I read all the guide lines which is mentioned in the mailing guidelines.
 - I Read about the frappe framework, its functionalities and advantage along with its installation process.
 
-##  :arrow_right: *DAY 8 (19/07/2022)*
+:arrow_right: **Date : 19-JULY-2022** 
 
 - Today the day started with the meeting which we have with our mentors and our SDC senoirs. They all shared their experiences and also gave a brief direction about our work.
 - I learn a lot things from them.
 - Today we all send our first mail in greatdeveloper group.
 - In the mail we describe our skills and our intrests.
 
-##  :arrow_right: *DAY 9 (20/07/2022)*
+:arrow_right: **Date : 20-JULY-2022** 
 
 - Today I started work on installing the frappe framework in our laptop.
 - For installing this I go go through the following steps:-
 
-# Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS
+## Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS
 A complete Guide to Install Frappe Bench in Ubuntu 22.04 LTS and install Frappe/ERPNext Application
 
 ### Pre-requisites 
@@ -215,13 +213,13 @@ Now press (Ctrl-X) to exit
     bench start
 
 
-##  :arrow_right: *DAY 10 (21/07/2022)*
+:arrow_right: **Date : 21-JULY-2022** 
 
 - I get a lot of errors in the installation of frappe framework in my pc which is mentioned in the mails.
 - A lot of errors is solved by searching a lot of errors are resolved by ourself also.
 - Today I successfullly install the frappe framework in our laptop.
 
-## :arrow_right: *DAY 11 (22/07/2022)*
+:arrow_right: **Date : 22-JULY-2022** 
 
 - Today our task is to create library management system in our laptop by learning through the frappe documentation https://frappeframework.com/
 - In the library Management System we have to do the following things:-
@@ -238,15 +236,15 @@ We will build a simple Library Management System in which the Librarian can log 
    
    Library Settings: Settings that define values like Loan Period and the maximum number of articles that can be issued at a time.
 
-##  :arrow_right: *DAY 12 (23/07/2022)*
+:arrow_right: **Date : 23-JULY-2022** 
 
-## Saturday
+### Saturday
 
-##  :arrow_right: *DAY 13(24/07/2022)*
+:arrow_right: **Date : 24-JULY-2022** 
 
-## Sunday
+### Sunday
 
-## :arrow_right: *DAY 14 (25/07/2022)*
+:arrow_right: **Date : 25-JULY-2022** 
 
 - Today I learn how we can create our site and app in frappe folder:-
 - Commands which use to create app is
@@ -271,7 +269,7 @@ Create a DocType
 
 DocType Features
 
-## :arrow_right: *DAY 15 (26/07/2022)*
+:arrow_right: **Date : 26-JULY-2022** 
 
 - Today I completed the pending steps of library management system
 
@@ -286,7 +284,7 @@ Web View Pages
 - Today I complete the library management system and decide to give the presentation on it.
 
 
-## :arrow_right: *DAY 16 (27/07/2022)*
+:arrow_right: **Date : 27-JULY-2022** 
 
 
 - Today after the presentation Rai Sir give me a task to understand the chat-app which is created in the frappe-framework v13. 
@@ -297,14 +295,14 @@ bench get-app {app_name}
 bench --site {site_name} install-app {app_name}
 ```
 
-## :arrow_right: *DAY 17 (28/07/2022)*
+:arrow_right: **Date : 28-JULY-2022** 
 
 - Today my work is to understand the chat-app ,which doctypes are created and all the stuff related to this.
 - First I install the chat-app in our laptop and see all the files which is created in the chat-app.
 - During the exploratoin I learned a new thing which is user and roles in the frappe framework.
 - From the above I learned how we can give different roles and different roles permissions to different users.
 
-## :arrow_right: *DAY 18 (29/07/2022)*
+:arrow_right: **Date : 29-JULY-2022** 
 
 - Today our whole team task is to understand the LMS(Learning Management System) in the Frappe framework.
 - Reading Education Domain with fully understanding
@@ -321,68 +319,67 @@ bench --site {site_name} install-app {app_name}
 - Acadmic year
 - Education Settings
 
-## :arrow_right: *DAY 19 (30/07/2022)*
+:arrow_right: **Date : 30-JULY-2022** 
 
 - Today seminar off because our Infosys SP & DSE Exam
 - Prepare for Exam
 
-## :arrow_right: *DAY 20 (31/07/2022)*
+:arrow_right: **Date : 31-JULY-2022** 
 
-## Sunday
+### Sunday
 
-### :arrow_right: *DAY 21 (01/08/2022)*
+:arrow_right: **Date : 01-AUGUST-2022** 
 
 - Today Satinder Sir gave us a work to get a backup from an server which is at CC1 lab.
 - We(me and Tanveer) are selected to do this task.
 - First we open the CPU and get the Hard Drive from that CPU after that we connected that Hard Drive to another pc and take the backup files which is useful.
 
-### :arrow_right: *DAY 22 (02/08/2022)*
+:arrow_right: **Date : 02-AUGUST-2022** 
 
 - There is one another file in the hard disk which is a script which is user to create the users automatically.
 - We take the backup of the file and send the script to the Rai Sir.
 
-### :arrow_right: *DAY 23 (03/08/2022)*
+:arrow_right: **Date : 03-AUGUST-2022** 
 
 - Implement education domain in test server (gne11.gndec.ac.in)
 - Create Programs, Courses
 - Allot room according to course, Programs and So on.
 
-### :arrow_right: *DAY 24 (04/08/2022)*
+:arrow_right: **Date : 04-AUGUST-2022** 
 
 - As all are not reading the mails properly so Sir assign Komal to give a brief representation on the mails guidelines.
 - All are prepared themselves for the presentation because Sir told us that they can ask any question to anyone regarding the mails and guidelines.
 - In the evening Komalpreet gave their presentation.   
 
-### :arrow_right: *DAY 25 (05/08/2022)*
+:arrow_right: **Date : 05-AUGUST-2022** 
 
 - Today I will try explore my chat-app work.
 - In this I am exploring the doctypes created by the chat app.
 - How chat-app works for non user or website user.
 
-### :arrow_right: *DAY 26 (06/08/2022)*
+:arrow_right: **Date : 06-AUGUST-2022** 
 
 - Saturday seminar
 - understand the use of make command
 - how we can write script of it
 
-### :arrow_right: *DAY 27 (7/08/2022)*
+:arrow_right: **Date : 07-AUGUST-2022** 
 
-## Sunday
+### Sunday
 
-### :arrow_right: *DAY 28 (08/08/2022)*
-
+:arrow_right: **Date : 08-AUGUST-2022** 
 
 - getting error when i'm using context script
 - search the solution for it.
 - work on fee structure on education domain.
 
-### :arrow_right: *DAY 29 (09/08/2022)*
+:arrow_right: **Date : 09-AUGUST-2022** 
 
 - Today I explore how we can edit homepage and login page.
 - I am also work on how we can give appropriate roles to different users.
 - In the evening there is a presentation given by tanveer on LMS.
 
-### :arrow_right: *DAY 30 (10/08/2022)*
+:arrow_right: **Date : 10-AUGUST-2022** 
 
 - Today I explore How can we me make users in bulk.
 - It is a very simple process to do so.
@@ -390,39 +387,37 @@ bench --site {site_name} install-app {app_name}
 - Click on get csv and select the fields according to your needs.
 - After that create put all the data in csv file and upload it.
 
-### :arrow_right: *DAY 31 (11/08/2022)*
+:arrow_right: **Date : 11-AUGUST-2022** 
 
-## Raksha Bandhan
+### Raksha Bandhan
 
-### :arrow_right: *DAY 32 (12/08/2022)*
+:arrow_right: **Date : 12-AUGUST-2022** 
 
 - Work on Student Fees
 - Generate Fee Slip
 
-### :arrow_right: *DAY 33 (13/08/2022)*
+:arrow_right: **Date : 13-AUGUST-2022** 
 
 
 - Deepak gave a presentation on fees and admission and I make a report of it.
 - Presentation on virtual environment given by Tavleen Kaur [ 2nd year CSE ]
 - Understand what is fet.
 
-### :arrow_right: *DAY 34 (14/08/2022)*
+:arrow_right: **Date : 14-AUGUST-2022** 
 
-## Sunday day 
+### Sunday
 
+:arrow_right: **Date : 15-AUGUST-2022** 
 
-### :arrow_right: *DAY 35 (15/08/2022)*
+### Independence Day
 
-## Independence Day
-
-### :arrow_right: *DAY 36 (16/08/2022)*
+:arrow_right: **Date : 16-AUGUST-2022** 
 
 - Work on Accounting
 - Leaving Certificate
 - Lead Management
 
-
-### :arrow_right: *DAY 37 (17/08/2022)*
+:arrow_right: **Date : 17-AUGUST-2022** 
 
 - HR Module
 - Student Applicant
@@ -432,7 +427,7 @@ bench --site {site_name} install-app {app_name}
 
 Like - SSO Implementation, LDAP installation and Configuration.
 
-### :arrow_right: *DAY 38 (18/08/2022)*
+:arrow_right: **Date : 18-AUGUST-2022** 
 
 - Explore HR Module
 - Show the fetched values of the mentor-mentee on the webpage with the use of context script
@@ -440,7 +435,7 @@ Like - SSO Implementation, LDAP installation and Configuration.
 - Add the Load More button on the right side of the page on the frappe
 - Add search button on the webpage of the mentor mentee
 
-### :arrow_right: *DAY 39 (19/08/2022)*
+:arrow_right: **Date : 19-AUGUST-2022** 
 
 - Create and design the table of the user of the webpage on https://gne11.gndec.ac.in/user 
 - Discuss the workflow of CMC 
