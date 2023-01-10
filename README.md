@@ -446,14 +446,20 @@ bench --site {site_name} install-app {app_name}
 :arrow_right: **Date : 24-AUGUST-2022** 
 
 - I have created all the courses again and also putt the subjects in each category.This task took complete one day.
+- Add the items in the warehouse 
+- Raghu Sir gave a presentation on EMS(Event Management System)
 
 :arrow_right: **Date : 25-AUGUST-2022** 
 
-- Today Satinder sir given a task to me and jasjit to find the information from database regarding to the NSPS grade report. A grade report is contains the fields of `Name of course` , `Email address` , `Course grade` etc.
+- Today Satinder sir given a task to me and jasjit to find the information from database regarding to the NSPS grade report. 
+- A grade report is contains the fields of `Name of course` , `Email address` , `Course grade` etc.
+- We explore this and search some sql queries.
 
 :arrow_right: **Date : 26-AUGUST-2022** 
 
-- Today we learnt first about the sql queries and watched one tutorial for it and explore about the general log file and error log file along what is the importance over all of these files. After wacthed the tutorial got some idea and executed some queries.
+- Today we learnt first about the sql queries and watched one tutorial for it and explore about the general log file and error log file.
+- We also explore what is the importance of all these files.
+- After wacthed the tutorial got some idea and executed some queries.
 
 :arrow_right: **Date : 27-AUGUST-2022** 
 
@@ -465,11 +471,10 @@ bench --site {site_name} install-app {app_name}
 
 :arrow_right: **Date : 29-AUGUST-2022** 
 
-### In order to accomplished our task ,we need user(student) name,grade,id,couse name.So start exploring the moodle database to get the valuses from the moodle database tables.
-
-- mdl_grade_grades: In this table we get the id,rawgrademax,finalgrade.
-- mdl_user: In this table we get the firstname of user,last name of user,username.
-- mdl_course: In this we get id of course,fullname,shortname.
+- Today in the evening meeting Satinder Sir gave me a task to explore
+  Payroll in Frappe. I am working on it.
+- I am going through the documentation
+  https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/payroll-setup
 
 :arrow_right: **Date : 30-AUGUST-2022** 
 
