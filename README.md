@@ -511,21 +511,40 @@ bench --site sitename install -app cha
 
 :arrow_right: **Date : 03-SEPTEMBER-2022** 
 
-- On this day i try below query-
+- Explore the doctypes created in chat-app.
 
-`SELECT u.firstname , u.lastname , u.email , u.username, c.fullname as course_name,  
-ROUND(gg.finalgrade,2) Grade, concat(uo.url, c.id) as url FROM mdl_course AS
-c JOIN  url_of_course AS uo JOIN mdl_context AS ctx ON c.id = ctx.instanceid 
-JOIN mdl_role_assignments AS ra ON ra.contextid = ctx.id JOIN mdl_user 
-AS u ON u.id = ra.userid JOIN mdl_grade_grades AS gg ON gg.userid = u.id JOIN 
-mdl_grade_items AS gi ON gi.id = gg.itemid JOIN mdl_course_categories 
-AS cc ON cc.id = c.category WHERE gi.courseid = c.id AND gi.itemtype = 'course';`
-
-It executed successfully getting the final output which mathes with requirements.
+1. Chat room
+2. Chat message
+3. Chat profile
+4. Chat setting
+5. Chat user setting 
 
 :arrow_right: **Date : 03-SEPTEMBER-2022** 
 
-- After this having a task to put the incremental backup so that automatically values will be fetched from the database and update on moodle (gradebook) respectively.
+1 .Chat room
+
+Chat room is the space where user inetract with others (Admin , System
+user) by the text messages. Chat room can be created by the 3 ways :
+1. By guest-
+2. By Direct
+3. By group -
+
+2. Chat message
+
+It is the space where text are sent between people. Every message that
+has been sent by a User gets reflected in the Chat Message List.
+
+3. Chat profile Chat profile show you a list of all the active
+profiles in your ERPNext account with whom you can start a chat.To
+start a new chat, simply type the name of the User in the search bar
+of chatbox and start communicating.
+
+4. Chat setting In chat setting can set the timing to enable the chat.
+- Can allowed roles to the users. - Can attached the file with whom
+you want to communicate.
+
+5 . Chat user setting This setting shows at the user end where user
+can enable the notificaton tone and message tone etc. 
 
 :arrow_right: **Date : 04-SEPTEMBER-2022** 
 
