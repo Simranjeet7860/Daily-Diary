@@ -521,29 +521,35 @@ bench --site sitename install -app cha
 
 :arrow_right: **Date : 03-SEPTEMBER-2022** 
 
-1 .Chat room
+### Chat room
 
 Chat room is the space where user inetract with others (Admin , System
 user) by the text messages. Chat room can be created by the 3 ways :
-1. By guest-
-2. By Direct
-3. By group -
+- By guest
+- By Direct
+- By group -
 
-2. Chat message
+### Chat message
 
 It is the space where text are sent between people. Every message that
 has been sent by a User gets reflected in the Chat Message List.
 
-3. Chat profile Chat profile show you a list of all the active
+### Chat profile 
+
+Chat profile show you a list of all the active
 profiles in your ERPNext account with whom you can start a chat.To
 start a new chat, simply type the name of the User in the search bar
 of chatbox and start communicating.
 
-4. Chat setting In chat setting can set the timing to enable the chat.
-- Can allowed roles to the users. - Can attached the file with whom
+### Chat setting 
+
+In chat setting can set the timing to enable the chat.
+Can allowed roles to the users. - Can attached the file with whom
 you want to communicate.
 
-5 . Chat user setting This setting shows at the user end where user
+### Chat user setting 
+
+This setting shows at the user end where user
 can enable the notificaton tone and message tone etc. 
 
 :arrow_right: **Date : 04-SEPTEMBER-2022** 
@@ -552,20 +558,36 @@ can enable the notificaton tone and message tone etc.
 
 :arrow_right: **Date : 05-SEPTEMBER-2022** 
 
-- Today i have a task to learnt about the incemental backup. For that i refers some tutorial from youtube and followed them. I learnt of its importance and significance.
+- Tommorow is my presentation on chat-app.
+- I create a ppt of my presentation.
+- Also prepare myself for presentation.
 
 :arrow_right: **Date : 06-SEPTEMBER-2022** 
 
-- Today @HS Rai sir give one task to me that we have to do some work on QT(Qt is cross-platform software for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows). The first we have to learn about the QT how to use it and how it work. For this i install it in my system and start exploring about it.
+- Today I gave the presentation on the chat-app
+- The presentation was good.
+- Komalpreet creates the report of my presentation.
+- I learn a lot of things from my presentation. 
 
 :arrow_right: **Date : 07-SEPTEMBER-2022** 
 
-- Then we install QT creator in which we write our program to create the GUI.Qt Creator creates several files for you. The HelloWorld.qmlproject file is the project file, where the relevant project configuration is stored. This file is managed by Qt Creator, so don’t edit it yourself. Another file, HelloWorld.qml, is our application code. Open it and try to understand what the application does before you read on.
+- Try to find the solution of question asked on my yesterday seminar.
+- The questions asked in the seminar is also writen below.
+
+### Question Asked
+
+- Why we select the users in chat room one by one?
+- What is token?
+- How the feature of version14 chat app is useful for us?
+- Is video can be send?
+- why file cannot be send greater then 5MB size?
+- Can user customized their messages after sent once as in whatsapp
+- We can delete the message at both send even after delivered? 
 
 :arrow_right: **Date : 08-SEPTEMBER-2022** 
 
-- In this period we learn about the QT and run a simple program (Hello) on it.
-- Beside this i am also workinfg on to get the user data from database.The question was that how to fetch the data from two table in mysql database.Because we have to fetch the user name and corresponding courses which are stored in two different tables.
+- Today I create github pages for chat-app
+- Also help Komal in making their report.
 
 :arrow_right: **Date : 09-SEPTEMBER-2022** 
 
