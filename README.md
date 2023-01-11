@@ -756,15 +756,20 @@ https://github.com/Simranjeet7860/GradeReport
 
 :arrow_right: **Date : 05-OCTOBER-2022** 
 
+### DUSHERRA 
+
+:arrow_right: **Date : 06-OCTOBER-2022** 
+
+
 - Finally we find a link https://discuss.frappe.io/t/department-wise-workflow/94840
 - From this link I am taking reference but Our problem is not solved.
 
-:arrow_right: **Date : 06-OCTOBER-2022** 
+:arrow_right: **Date : 07-OCTOBER-2022** 
 
 - Today again I tried to do same as the person do in the link we find yesterday.
 - But in our system it not works.
 
-:arrow_right: **Date : 07-OCTOBER-2022** 
+:arrow_right: **Date : 08-OCTOBER-2022** 
 
 - Yesterday the work is not coplete so I left that work.
 - I started work on different work.
@@ -772,7 +777,105 @@ https://github.com/Simranjeet7860/GradeReport
 - Satinder SIr give this work to me and pranvir.
 - We are working on it
 
-:arrow_right: **Date : 08-OCTOBER-2022** 
+:arrow_right: **Date : 09-OCTOBER-2022** 
+
+- In addition to previos work we also tried to fetch the name of the login user.
+- We are trying to do this through both client and server script.
+- We searched alot but we are ubable to find the the solution for that.
+
+:arrow_right: **Date : 10-OCTOBER-2022** 
+
+### SUNDAY
+
+:arrow_right: **Date : 11-OCTOBER-2022** 
+
+- Today I will try to do the company setup
+- I find a link https://www.youtube.com/playlist?list=PLydTMPIE6Gfvw8ja2olz-rRJzzgmtrQ2r
+- I go through this and try to find somehting which helps in our CMC Project.
+
+:arrow_right: **Date : 12-OCTOBER-2022** 
+
+- I go through the first two videos and learn following things.
+- How we can create new company in the fraappe framework.
+- How can we add different customers in it.
+- How we define the taxes in the company setup.
+
+:arrow_right: **Date : 13-OCTOBER-2022** 
+
+### KARVA CHAUTH
+
+:arrow_right: **Date : 14-OCTOBER-2022** 
+
+- Today I go the third and fourth video and find the following things.
+- For adding the items we need to define the tax templtes.
+- For adding the items we need to go through some long step which I explore tommorow.
+
+:arrow_right: **Date : 15-OCTOBER-2022** 
+
+- Today I continue the previous work I add the items.
+- I come to know a new thing that we can add the services also.
+- The following is the flow chart how can we add items in the frappe.
+https://github.com/Simranjeet7860/Demo-Image/blob/main/photo_2022-12-24_18-48-26.jpg
+
+:arrow_right: **Date : 16-OCTOBER-2022** 
+
+### SUNDAY
+
+:arrow_right: **Date : 17-OCTOBER-2022** 
+
+- Today Satinder Sir getting an error while initializing a new frappe.
+- https://discuss.frappe.io/t/error-while-running-bench-new-site-site1-local/55522
+- Found that this error comes due to wrong configuration of mysql.
+
+:arrow_right: **Date : 18-OCTOBER-2022** 
+
+- Today I helped jasjit and pranvir in company setup.
+
+:arrow_right: **Date : 19-OCTOBER-2022** 
+
+- Today I tried to help Pranvir and jasjit in their quotation work.
+- Quotation work is taking long time so I decide to help them.
+- In the Quotation work when HOD forward request to SDE then he makes a quotation for have an estimate of cost required in thewhole process.
+- First SDE think about the request if its okay then he forward the request to the CMC Head.
+
+:arrow_right: **Date : 20-OCTOBER-2022** 
+
+- In the quotation work we create a table in which we can add multiple items in it.
+- The Item price should automatically fetch from the warehouse.
+- Total cost will be equal to the rate of all products.
+- Cost = Price * no of quantity
+
+:arrow_right: **Date : 21-OCTOBER-2022** 
+
+- This work is similar to the items entry in the warehouse.
+- So Rohit and me tried to explore that and tried to read the javascript behind that.
+
+:arrow_right: **Date : 22-OCTOBER-2022** 
+
+- Finally found the javascript behind the items entry in frappe.
+- With the help of that quotation work is done.
+
+:arrow_right: **Date : 23-OCTOBER-2022** 
+
+- Tried to explore workfloe in the frappe framework.
+- The whole project is depend on the workflow.
+- Also we want a conditional workflow in it.
+
+:arrow_right: **Date : 24-OCTOBER-2022** 
+
+### DIWALI 
+
+:arrow_right: **Date : 25-OCTOBER-2022** 
+
+### VISHKARMA DAY
+
+:arrow_right: **Date : 26-OCTOBER-2022** 
+
+### BHAI DOOJ
+
+:arrow_right: **Date : 27-OCTOBER-2022** 
+
+
 
 
 
