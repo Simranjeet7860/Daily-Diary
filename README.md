@@ -1331,6 +1331,10 @@ frappe.ui.form.on('Sales Invoice', {
 
 :arrow_right: **Date : 04-DECEMBER-2022**
 
+### SUNDAY
+
+:arrow_right: **Date : 05-DECEMBER-2022**
+
 - In the CMC Project we need the department of every employee.
 - So we created the deaprtments of college.
 - Also assign roles to different employees.
