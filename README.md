@@ -591,7 +591,19 @@ can enable the notificaton tone and message tone etc.
 
 :arrow_right: **Date : 09-SEPTEMBER-2022** 
 
-- Today We start a ndew Project named CMC( Construction & Maintenance Cell).First of all we need to understand the structure of CMC, The CMC will be a company under NSET, parallel to GNDEC. IMO it must be a service based company, what is your opinion, and other domains available.It will have sales, purchase, stock, accounting etc.So, It is a service based company.
+- Today We start a ndew Project named CMC( Construction & Maintenance Cell).
+- First of all we need to understand the structure of CMC.
+- The CMC will be a company under NSET, parallel to GNDEC. 
+- IMO it must be a service based company. 
+- It will have sales, purchase, stock, accounting etc.
+
+:arrow_right: **Date : 10-SEPTEMBER-2022** 
+
+- H.S.Rai Sir gave me work on the review of Rocket Chat. 
+- I study the features and some limitations of it and make a review of rocket chat. 
+- The link of my review is given below https://docs.google.com/document/d/1WKhkTgy72CwMBhADG4SiyCu4MwHimEZ0fR4rJh1T6zQ/edit?usp=sharing
+
+
 
 
 ***********************************************************************************************************************************
