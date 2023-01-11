@@ -1335,10 +1335,82 @@ frappe.ui.form.on('Sales Invoice', {
 
 :arrow_right: **Date : 05-DECEMBER-2022**
 
+- Today all the trainees prepeared for the exam.
+- In the evening there is an exam related to frappe framework.
+- 
+
+:arrow_right: **Date : 06-DECEMBER-2022**
+
+- Discussed the questions asked in the quiz.
+- Try to find the solution of all of them
+- Also try if there is any wrong question.
+
+
+:arrow_right: **Date : 07-DECEMBER-2022**
+
 - In the CMC Project we need the department of every employee.
 - So we created the deaprtments of college.
 - Also assign roles to different employees.
 
+:arrow_right: **Date : 08-DECEMBER-2022**
+
+- Today I tried to answer the Rai Sir question.
+- The question is can we initialize different bench folders on different ports.
+- For this I tried to install the frape V13 in my local.
+
+:arrow_right: **Date : 09-DECEMBER-2022**
+
+- Today I install the frappe v14 in my local.
+- I found that we can run different bench folders on different ports.
+- If the bench is start then the new bench folder will automatically changes their configuration.
+- If the bench is in production mode then we need to do the configuration manually.
+
+:arrow_right: **Date : 10-DECEMBER-2022**
+
+- (On leave)
+
+:arrow_right: **Date : 11-DECEMBER-2022**
+
+### SUNDAY 
+
+:arrow_right: **Date : 12-DECEMBER-2022**
+
+- Today Rai Sir give me task to explore the issue in frappe.
+- An Issue is an incoming query from a Customer, usually via email or from the Contact section of your website.
+- Its require in CMC Project If a user facing some problem then we have some platform where he can add their problem.
+- So Today I go through the following docmentation
+- https://docs.erpnext.com/docs/v13/user/manual/en/support/issue
+
+:arrow_right: **Date : 13-DECEMBER-2022**
+
+- I go through the documentation.
+- I create cusmoter and email setup for that person in frappe.
+- While exploring this I am facing a problem when a person reports an issue and how to reply to that person.
+
+:arrow_right: **Date : 14-DECEMBER-2022**
+
+- For creating issue platform I am facing some errors.
+- So I decide to explore the web-template discussion.
+
+:arrow_right: **Date : 15-DECEMBER-2022**
+
+- Discussion template is very good and we can use as the replacement of Issue in frappe.
+- I create a web-page for that.
+- https://erp.gndec.ac.in/cmc_discussion
+
+:arrow_right: **Date : 16-DECEMBER-2022**
+
+- Today I explore which files configuration has to be changed when we try to initialize a new bench on different port.
+- In site folder there is a file name common_site_ configuration in which we need to do the changes.
+- In the config folder there are some redis configurations files in which we need to do some changes.
+
+:arrow_right: **Date : 17-DECEMBER-2022**
+
+- (On leave)
+
+:arrow_right: **Date : 18-DECEMBER-2022**
+
+### SUNDAY
 
 
 
