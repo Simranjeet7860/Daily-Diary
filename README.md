@@ -713,6 +713,67 @@ https://github.com/Simranjeet7860/GradeReport
 
 ### SUNDAY
 
+:arrow_right: **Date : 27-SEPTEMBER-2022** 
+
+- Today in the evening meeting Satinder Sir gave me a task to explore Payroll in Frappe. 
+- I am working on it.
+- I am going through the documentation https://docs.erpnext.com/docs/v13/user/manual/en/human-resources/payroll-setup
+
+:arrow_right: **Date : 28-SEPTEMBER-2022** 
+
+- Payroll is the administration of financial records of employees' salaries, wages, bonuses, net pay, and deductions.
+- Today I explore the Payroll period and salary component.
+
+:arrow_right: **Date : 29-SEPTEMBER-2022** 
+
+- Today we shift all the work of gradebook on gne5.gndec.ac.in
+
+:arrow_right: **Date : 30-SEPTEMBER-2022** 
+
+- Today H.S. Rai Sir and Satinder Sir discussed the whole CMC Project.
+- They also divide the whole CMC Project into smaller parts.
+- They gave me the work that I have to create a web page in which user seen their own requests. 
+
+:arrow_right: **Date : 01-OCTOBER-2022** 
+
+- Today I started working on creating web-page on gne2.gndec.ac.in
+- As I done the same task in gradebook so it is easy for me to do this.
+- First I collect the requirements what we need in the webpage.
+
+:arrow_right: **Date : 03-OCTOBER-2022** 
+
+- Today I start creating the web-page.
+- In this we add some field like department, Title of complaint, Complaint details and some other things.
+- Also create a new web page and add the HTML in it.
+- Actually the scripting work is pending because it also depends on other work
+- So its pending for now but I start working on it after some time.
+
+:arrow_right: **Date : 04-OCTOBER-2022** 
+
+- Help in creating the doctype of the CMC Request.
+- In this we want that if the CSE Department employee files a complain then only their HOD can see the request.
+- This took our whole day but we are unable to find some solution to it.
+
+:arrow_right: **Date : 05-OCTOBER-2022** 
+
+- Finally we find a link https://discuss.frappe.io/t/department-wise-workflow/94840
+- From this link I am taking reference but Our problem is not solved.
+
+:arrow_right: **Date : 06-OCTOBER-2022** 
+
+- Today again I tried to do same as the person do in the link we find yesterday.
+- But in our system it not works.
+
+:arrow_right: **Date : 07-OCTOBER-2022** 
+
+- Yesterday the work is not coplete so I left that work.
+- I started work on different work.
+- In the CMC Request Form we want that in department field it automatically fetch the department of login user.
+- Satinder SIr give this work to me and pranvir.
+- We are working on it
+
+:arrow_right: **Date : 08-OCTOBER-2022** 
+
 
 
 ***********************************************************************************************************************************
