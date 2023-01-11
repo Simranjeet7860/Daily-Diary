@@ -1314,6 +1314,32 @@ frappe.ui.form.on('Sales Invoice', {
 
 :arrow_right: **Date : 01-DECEMBER-2022**
 
+- Today Me and komal trying to upload the instructors on gne5.gndec.ac.in
+- When I try to upload the list of Instructors I want to upload more than one program and course of the respective instructor but in one list I can upload   only one course and program.
+- In this satinder sir gave an advice to first export the instructor file and then you try to upload that file.
+
+:arrow_right: **Date : 02-DECEMBER-2022**
+
+- Today we tried the solution asked by the satinder sir but it didn't work.
+- Finally I found the solution for this. 
+- We can upload the Instructor with the following format.
+- https://github.com/Simranjeet7860/Demo-Image/blob/main/Screenshot%20from%202022-12-02%2013-43-45.png
+
+:arrow_right: **Date : 03-DECEMBER-2022**
+
+- Today we import all the instructor on the erp.gndec.ac.in
+
+:arrow_right: **Date : 04-DECEMBER-2022**
+
+- In the CMC Project we need the department of every employee.
+- So we created the deaprtments of college.
+- Also assign roles to different employees.
+
+
+
+
+
+
 
 
 
