@@ -8,7 +8,7 @@
 - In the morning we have meeting with HS Rai Sir(mentor of our training).
 - He gave us the instructions and welcome us in the SDC(Software developement Centre)
 - He told us to work on the things:
--- Linux, Apache, Mysql & Mariadb , php.
+- Linux, Apache, Mysql & Mariadb , php.
 
 
 :arrow_right: **Date : 13-JULY-2022** 
