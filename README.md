@@ -998,13 +998,83 @@ https://github.com/Simranjeet7860/Demo-Image/blob/main/photo_2022-12-24_18-48-26
 <a href="/ddiary" class="btn btn-dark" role="button" aria-pressed="true">See Previous Diaries</a>
 </footer>
 ```
+- After that I add the following context script in it.
+```
+user = frappe.session.user
+context.maintenances = frappe.db.sql(f"select ROW_NUMBER() OVER (ORDER BY subject ASC) AS SrNo,d.subject, d.classwork,d.homework from `tabDaily Diary` as d join `tabProgram Enrollment` as p on p.program = d.class join tabUser as u on p.student_name = u.full_name where ctx = curdate() and u.email = %s ",user);
+```
+:arrow_right: **Date : 09-NOVEMBER-2022** 
 
+- Today I learn about web template.
+- With the using of web templates I create the web page of erp.gndec.ac.in
+- Also learn some new features about web templates.
 
+:arrow_right: **Date : 10-NOVEMBER-2022** 
 
+- I think the daily diary work is done but sir add one more requirements in it.
+- Sir said that the students can also see their previous diaries.
+- So Now I am working in that.
 
-***********************************************************************************************************************************
+:arrow_right: **Date : 11-NOVEMBER-2022** 
 
-## :arrow_right: *DATE (14/11/2022)*
+- For the yesterday task I add a new web page in which students can see their previous diary also.
+- I create a web page just like the previous one and add the search bar by the following html
+```
+<head>
+    <div class="toolbar d-flex">
+        <div class="input-group col-8 p-2">
+            <div class="dropdown w-30" id="search-box">
+                <input type="search" name="query" id="myInput" class="form-control font-md" onkeyup="myFunction()" placeholder="YYYY-MM-DD" aria-label="Daily-Diary"
+                    aria-describedby="button-addon2">
+                <div class="search-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                        stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </div>    
+</head>
+```
+- I also add some javascript for the functionality of search bar.
+```
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+```
+
+:arrow_right: **Date : 12-NOVEMBER-2022** 
+
+- Daily Diary work is done so I decided to gave an presentation on it.
+- In the afternoon I gave a presentation on the daily diary .
+- Also learn so much from my presentation also.
+
+:arrow_right: **Date : 13-NOVEMBER-2022** 
+
+### SUNDAY 
+
+:arrow_right: **Date : 14-NOVEMBER-2022** 
+
 ### *Finds the appropriate solution for upgrading Frappe v13 to Frappe v14*
 
 - Today my task is to find the appropriate solution for upgrading Frappe v13 to Frappe v14.
@@ -1014,16 +1084,15 @@ https://github.com/Simranjeet7860/Demo-Image/blob/main/photo_2022-12-24_18-48-26
   https://cloud.erpgulf.com/blog/support-forum/erpnext-upgrade-from-version-13-to-version-14-ubnutu
 
 #Steps I follow:-
-
 1- Take backup.
-
 2- Make sure you don't have any customization those are not committed.
-
 3- Check python version
-
 4- Check node version.
-
 5- Check pip or pip3 version ( needs to be upgrade to 22.x )
+
+:arrow_right: **Date : 15-NOVEMBER-2022** 
+
+- Continue yesterday work.
 
 6- Upgrade python
 ```
@@ -1050,8 +1119,11 @@ sudo apt-get remove python3-apt -y
 sudo apt-get install python3-apt -y
 ```
 
-At the Step 8 I am getting an error while upgrading the version of
-node.Which is resolve by the command nvm install node.
+- In the step 8 I am facing an error.
+
+:arrow_right: **Date : 16-NOVEMBER-2022** 
+
+- At the Step 8 I am getting an error while upgrading the version of node.Which is resolve by the command nvm install node.
 
 Instead of following command :-
 
@@ -1093,6 +1165,9 @@ the virtual environment by the following command:-
 bench setup env
 ```
 
+:arrow_right: **Date : 17-NOVEMBER-2022** 
+
+
 12- Change git upstream from V13 to V14
 ```
 env/bin/pip install -e apps/frappe -e apps/erpnext
@@ -1129,59 +1204,49 @@ After completing all the steps I get the following result.
 </div>
 <br>
 
- ## :arrow_right: *DATE (15/11/2022)*
+
+:arrow_right: **Date : 18-NOVEMBER-2022**
+
 ### *Complete the maximum work of Quotation and Estimate in CMC Project*
 
-1. Customize the quotation doctype. In the quotation doctype we add
-the CMC Request No., Labour Cost , Grand Total(Equals to total_cost+
+- Customize the quotation doctype. In the quotation doctype we add the CMC Request No., Labour Cost , Grand Total(Equals to total_cost+
 labour cost).
+- Add connection in CMC Doctype. When the sde clicks on Quotation then in the Quotation form CMC Request no. automatically fetches.
+- Next problem we faced is CMC_Head unable to see the quotation. For this we see all the roles and roles permissions  but we are unable to
+  find anything from that. 
+- After that we find that there is some user permission for a user CMC Head which restricts the CMC Head to see the quotation list.
 
-2. Add connection in CMC Doctype. When the sde clicks on Quotation
-then in the Quotation form CMC Request no. automatically fetches.
+:arrow_right: **Date : 19-NOVEMBER-2022** 
 
-3. Next problem we faced is CMC_Head unable to see the quotation. For
-this we see all the roles and roles permissions  but we are unable to
-find anything from that. After that we find that there is some user
-permission for a user CMC Head which restricts the CMC Head to see the
-quotation list.
-
-4. We also add the custom script in Quotation doctype.( Grand Total =
-total_cost+ labour cost).
-
-  After that we discussed with Rai Sir in the evening meeting that there
-  is no need to customize the quotation doctype. Instead of this I add some
-  services in the item list and delete the customization that I made on
-  quotation doctype.
-
-  Pending work:-
-  When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
+- We add the custom script in Quotation doctype.( Grand Total = total_cost+ labour cost).
+- After that we discussed with Rai Sir in the evening meeting that there is no need to customize the quotation doctype. 
+- Instead of this I add some services in the item list and delete the customization that I made on quotation doctype.
+- Pending work:- When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
   
-   ## :arrow_right: *DATE (16/11/2022)*
-### *Today Task*
-Finish 10% of yesterday's pending work which is
-When total_cost(in Quotation)>total_cost(in Bill)
-then it shows an alert message.
+:arrow_right: **Date : 20-NOVEMBER-2022** 
 
-If this task is finished on time then after that I have another task
-to understand the whole chat app like how its work, doctypes created
+### SUNDAY
+
+:arrow_right: **Date : 21-NOVEMBER-2022** 
+
+### *Today Task*
+- Finish 10% of Saturday's pending work which is When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
+- If this task is finished on time then after that I have another task to understand the whole chat app like how its work, doctypes created
 and the logic behind all the stuff.
 
 ### Status of Tasks:-
 Only first task is completed and the second task is pending.
 
+:arrow_right: **Date : 22-NOVEMBER-2022** 
+
 ### Work I do Today for completing the first task.
-In the CMC Project we want the linking of Quotation,Sales Order and Sales Invoice with the CMC Request.
+- In the CMC Project we want the linking of Quotation,Sales Order and Sales Invoice with the CMC Request.
+- Solution:- We added one field(CMC Request no.) in the all the doctypes(Sales invoice, Sales Order and quotation) and fetched the CMC Request No.           automatically.
+- For this we use the connections.
+- When total_cost(in Quotation)>total_cost(in Bill) then it shows an alert message.
 
-Solution:- We added one field(CMC Request no.) in the all the doctypes(Sales invoice, Sales Order and
-quotation) and fetched the CMC Request No. automatically.
-For this we use the connections.
-
-When total_cost(in Quotation)>total_cost(in Bill) then it shows an
-alert message.
-
-Solution:-For this we fetch the total cost of quotation in the Sales
-
-Invoice doctype and add the following client script in it.
+- Solution:-For this we fetch the total cost of quotation in the Sales
+- Invoice doctype and add the following client script in it.
 ```
 frappe.ui.form.on('Sales Invoice', {
     refresh(frm) {
@@ -1191,4 +1256,6 @@ frappe.ui.form.on('Sales Invoice', {
     }
 })
 ```
+
+
 
