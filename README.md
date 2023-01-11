@@ -601,8 +601,117 @@ can enable the notificaton tone and message tone etc.
 
 - H.S.Rai Sir gave me work on the review of Rocket Chat. 
 - I study the features and some limitations of it and make a review of rocket chat. 
-- The link of my review is given below https://docs.google.com/document/d/1WKhkTgy72CwMBhADG4SiyCu4MwHimEZ0fR4rJh1T6zQ/edit?usp=sharing
 
+:arrow_right: **Date : 10-SEPTEMBER-2022** 
+
+### Sunday
+
+:arrow_right: **Date : 12-SEPTEMBER-2022** 
+
+- Rocket chat is a customizable open source communications platform for organizations with high standards of data protection. 
+- It enables real-time conversations between colleagues, with other companies, or with your customers, across devices on the web, desktop, or mobile.
+
+### Review:-
+
+- If you want to use the rocket chat there are some requirements for this. 
+- First if you have your own server then you install it and use it for free. 
+- If you don't have any server then you have to pay some money for using the cloud services of Rocket chat.
+- Some requirements that you have while installing rocket chat on your own server:-
+https://docs.rocket.chat/quick-start/installing-client-apps/minimum-requirements-for-using-rocket.chat
+- Hardware Requirements:-
+https://docs.rocket.chat/quick-start/deploying-rocket.chat/hardware-requirements
+
+:arrow_right: **Date : 13-SEPTEMBER-2022** 
+
+- I also explore some more requirements and features.
+- There are lots of customization we can do for the permissions of users and guests also.
+- We can also change the logo of rocket chat according to our needs. I like this feature. 
+- We can also customize the theme and login screen of rocket chat.
+- We can create a lot of rooms according to our needs like channels, teams, discussions , messages , direct messages and threads.
+- It contains all the features that we are having the chat-app in the erpnext but there are alot of features that are also added in this. It looks like a discord app and also has some features.
+-In the Erpnext we simply install our chat and use it within the site of our system but in this we need a different site for using the rocket chat. 
+-Due to its highly extensive nature not always worth using for small projects not requiring complex group messaging options.
+
+:arrow_right: **Date : 14-SEPTEMBER-2022** 
+
+- Today Rai sir gave an another task to me to find how we can add name without last name in moodle.
+- I start searching on it.
+- Still confused and unable to find the solution of it.
+
+:arrow_right: **Date : 15-SEPTEMBER-2022** 
+
+- I continue my yesterday work.
+- I found one solution of that problem.
+- If we can change the configuration of editlib.php then we can add the user without a last name.
+- I read the following reference. https://moodle.org/mod/forum/discuss.php?d=311913
+
+:arrow_right: **Date : 16-SEPTEMBER-2022** 
+
+- Today I learn how we can upload students in bulk through csv.
+- We also upload users on gne5.gndec.ac.in.
+
+:arrow_right: **Date : 17-SEPTEMBER-2022** 
+
+- We are working on transferring the data of the gradebook from Moodle to ERPnext.
+- Now we are creating a dummy csv which contains Student Name, Student Id,Course Name, Course Id, Total Marks , Getting marks. 
+- After creating this we will try to upload csv from the backend. 
+- We are working on an experimental site gne2.gndec.ac.in. 
+- I am working with Pranvir Singh. 
+
+:arrow_right: **Date : 18-SEPTEMBER-2022** 
+
+### SUNDAY
+
+:arrow_right: **Date : 19-SEPTEMBER-2022** 
+
+- When we try to upload through backend then we are getting some errors.
+```
+"frappe.exceptions.ValidationError: Please do not change the rows
+above Start entering data below this line" 
+```
+### Resolved
+We got another bench command to import csv.
+```
+bench --site <SITE_NAME> data-import --file <PATH_TO_CSV> --doctype
+<DOCTYPE> --type <Insert|Update>
+```
+:arrow_right: **Date : 20-SEPTEMBER-2022** 
+
+- In the evening discussion, Satinderpal Sir explained how we can create a query which reads data from one database and use update query to update the resulting table. 
+- He also explain how to create a student view of a gradebook at site.
+
+:arrow_right: **Date : 21-SEPTEMBER-2022** 
+
+- We create a web page for gradebook in which we fetch data from database and show the grades of all users on https://gne2.gndec.ac.in/gradebook1.
+- For this we create a new web page.
+- Add the table html in it.
+- Add context script in it.
+
+:arrow_right: **Date : 22-SEPTEMBER-2022** 
+
+- In yesterday work we are unable to show a particular login user's grade. 
+- Now we're working on it.
+
+:arrow_right: **Date : 23-SEPTEMBER-2022** 
+
+- Today we created my_course and gradebook on gne2.gndec.ac.in/me .
+- It is not completed yet some scripting has to be added in it . 
+- We are taking reference from the following link. https://github.com/frappe/frappe/wiki/Developer-Cheatsheet
+
+:arrow_right: **Date : 24-SEPTEMBER-2022** 
+
+- Today I am working on why the gradebook and my_courses are not shown in the mobile view on gne2.gndec.ac.in/me.
+- Pranvir is working on adding the links to the courses.
+- Today both the tasks were done successfully. 
+
+:arrow_right: **Date : 25-SEPTEMBER-2022** 
+
+- Today me and komal create a documentation on gradebook on github pages.
+https://github.com/Simranjeet7860/GradeReport
+
+:arrow_right: **Date : 26-SEPTEMBER-2022** 
+
+### SUNDAY
 
 
 
