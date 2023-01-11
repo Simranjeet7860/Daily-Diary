@@ -1262,5 +1262,60 @@ frappe.ui.form.on('Sales Invoice', {
 })
 ```
 
+:arrow_right: **Date : 23-NOVEMBER-2022** 
+
+- Today my work is to create a web page for the erp.gndec.ac.in
+- For this I click the photos of college campus 
+- From the Image I create a homepage of erp.gndec.ac.in
+
+:arrow_right: **Date : 24-NOVEMBER-2022**
+
+- Today I helped veerpal in fetching the department in notice board.
+- Find the appropriate solution for the error(multi_currency error) which we get while creating the invoice. 
+- I am unnle to find the solution of that.
+
+:arrow_right: **Date : 25-NOVEMBER-2022**
+
+- Today Satinder Sir gave me work to explore how we can access other databases though ERPnext or Frappe.
+- While doing this task I find a answer of a question which was asked by the Rai Sir.
+- The question is can we create a doctype without storing the data in the backend.
+- The answer is yes if we select "is virtual" option in doctype.
+
+:arrow_right: **Date : 26-NOVEMBER-2022**
+
+- Add one user ( CMC CLERK ) which will handle the work after the estimate approved by cmc.
+- Like : sales order, Bill generation and so on.
+- One more requirement added by satinder sir :
+- According to our need we modified the quotation doctype.
+- Currently our problem is resolved.
+- In future if we send the quotation for the college purpose we can face some difficulties.
+
+:arrow_right: **Date : 27-NOVEMBER-2022**
+
+### SUNDAY 
+
+:arrow_right: **Date : 28-NOVEMBER-2022**
+
+- Today I am implementing the daily diary project on the gne5.gndec.ac.in
+- Same process which I discuss earlier.
+- Half the work is done rest the work I do tommorow.
+
+:arrow_right: **Date : 29-NOVEMBER-2022**
+
+- Today I successfully create all the daily diary project on gne5.gndec.ac.in
+
+:arrow_right: **Date : 30-NOVEMBER-2022**
+
+- Today I am trying to solve the error multi_currency error.
+- Our whole CMC Project is pending due to this project.
+- I compare both doctypes in gne12 and on erp.
+- From this we found a solution to delete this option from backend.
+- After that bill generation works fine.
+
+:arrow_right: **Date : 01-DECEMBER-2022**
+
+
+
+
 
 
