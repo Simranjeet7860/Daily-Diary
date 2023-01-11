@@ -875,8 +875,39 @@ https://github.com/Simranjeet7860/Demo-Image/blob/main/photo_2022-12-24_18-48-26
 
 :arrow_right: **Date : 27-OCTOBER-2022** 
 
+- Today I tried to explore the roles and permissions requied in cmc project for different users.
+- We need the following roles which are prebuilt in frappe:-
+1.Employee and Student (who create the request form)
+2.Stock User ( Used by SDE to see the items in warehouse during estimate)
 
+- New created roles:-
+1.Hod/Ic
+2.CMC head
+3.SDE
+4.Trustee 
 
+:arrow_right: **Date : 28-OCTOBER-2022** 
+
+- Today I learn about Desk Page
+- When you log in, you're presented with the Desk. 
+- It features a persistent sidebar sorted into categories. Each sidebar item links to a page called Desk Page.
+
+:arrow_right: **Date : 29-OCTOBER-2022** 
+
+- Today a previous problem is solved.
+- When I tried I am not adding the department as link.
+- So thats why our departwise worlflow is not working.
+- Rai Sir finds that error and helped me in this. 
+
+:arrow_right: **Date : 30-OCTOBER-2022** 
+
+### SUNDAY
+
+:arrow_right: **Date : 31-OCTOBER-2022** 
+
+- Today I help deepak in implementing the deaprtment wise workflow in the frappe.
+
+:arrow_right: **Date : 01-NOVEMBER-2022** 
 
 
 ***********************************************************************************************************************************
