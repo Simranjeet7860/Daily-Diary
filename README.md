@@ -1,5 +1,5 @@
 # Daily-Diary
-# TRAINING AND INTERNSHIP PROGRAMME :point_down:
+# TRAINING AND INTERNSHIP PROGRAM :point_down:
 
 :arrow_right: **Date : 12-JULY-2022** 
 
