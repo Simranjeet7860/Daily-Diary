@@ -506,7 +506,7 @@ bench --site {site_name} install-app {app_name}
 By following below commands -
 ```
 bench get -app chat
-bench --site sitename install -app cha
+bench --site sitename install -app chat
 ```
 
 :arrow_right: **Date : 03-SEPTEMBER-2022** 
@@ -1084,10 +1084,15 @@ function myFunction() {
   https://cloud.erpgulf.com/blog/support-forum/erpnext-upgrade-from-version-13-to-version-14-ubnutu
 
 #Steps I follow:-
+
 1- Take backup.
+
 2- Make sure you don't have any customization those are not committed.
+
 3- Check python version
+
 4- Check node version.
+
 5- Check pip or pip3 version ( needs to be upgrade to 22.x )
 
 :arrow_right: **Date : 15-NOVEMBER-2022** 
