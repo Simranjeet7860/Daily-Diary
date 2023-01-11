@@ -909,6 +909,98 @@ https://github.com/Simranjeet7860/Demo-Image/blob/main/photo_2022-12-24_18-48-26
 
 :arrow_right: **Date : 01-NOVEMBER-2022** 
 
+- Today Satinder Sir asssign me a new task of Daily Diary Project.
+- In this project we have to a create a web form in which texher can enter their daily diary.
+- Teacher also gave homework to childrens.
+- They can write class-work.
+
+:arrow_right: **Date : 02-NOVEMBER-2022** 
+
+- Today I started working on that Daily Diary project.
+- I create a doctype in which I add the following doctype.
+1. DATE
+2. CLASS 
+3. SUBJECT
+4. CLASSWORK
+5. HOMEWORK
+
+:arrow_right: **Date : 03-NOVEMBER-2022** 
+
+- In the daily diary project I need some test teachers
+- I also need some test students.
+- For teachers, I first make employess and convert them into Instructors(teachers)
+
+:arrow_right: **Date : 04-NOVEMBER-2022** 
+
+- For students I need users.
+- First I make some users and convert them into students.
+- We also need classes for that.
+- For that I add programs 1 to 5 class.
+
+:arrow_right: **Date : 05-NOVEMBER-2022** 
+
+- After that I make courses(subjects) which are used in programs.
+- I enroll different students in different programs.
+- After that I check the roles and permission that the instructor required in writing their daily diary.
+
+:arrow_right: **Date : 06-NOVEMBER-2022** 
+
+### SUNDAY
+
+:arrow_right: **Date : 07-NOVEMBER-2022** 
+
+- Today I learn how we can edit or add the workspaces in the frappe.
+- Workspace is the first page you land on when you log in. It also has a dedicated sidebar where you can rearrange the workspace position according to your convenience.
+- Desk contains many workspaces.
+- We can also edit the workspaces and the modules also.
+
+:arrow_right: **Date : 08-NOVEMBER-2022** 
+
+- Today I create a web-page for the students so they can see their daily homework.
+- For this I create a new web-page and add the following html in it.
+```
+<br>
+<h1 id="heading" style="text-align:center">Today Diary</h1>
+<br>
+
+<body>
+    <table id="myTa" class="table" border="1">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Sr.no.</th>
+                <th scope="col">Subject</th>
+                <th scope="col">Classwork</th>
+                <th scope="col">Homework</th>
+            </tr>
+        </thead>
+        <tbody id="myTable" class="table" border="1">
+            {% for daily_diary in maintenances %}
+            <tr>
+                <td>
+                    {{daily_diary[0] }}
+                </td>
+                <td>
+                    {{daily_diary[1] }}
+                </td>
+                <td>
+                    {{daily_diary[2] }}
+                </td>
+                <td>
+                    {{daily_diary[3] }}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+<footer>
+<a href="/ddiary" class="btn btn-dark" role="button" aria-pressed="true">See Previous Diaries</a>
+</footer>
+```
+
+
+
 
 ***********************************************************************************************************************************
 
